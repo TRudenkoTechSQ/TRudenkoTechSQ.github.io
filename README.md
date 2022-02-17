@@ -1,29 +1,26 @@
 # Tim Rudenko
 ## Personal markdown site.
 ```
-████████╗██╗███╗   ███╗                                     
-╚══██╔══╝██║████╗ ████║                                     
-   ██║   ██║██╔████╔██║                                     
-   ██║   ██║██║╚██╔╝██║                                     
-   ██║   ██║██║ ╚═╝ ██║                                     
-   ╚═╝   ╚═╝╚═╝     ╚═╝                                     
-                                                            
-██████╗ ██╗   ██╗██████╗ ███████╗███╗   ██╗██╗  ██╗ ██████╗ 
-██╔══██╗██║   ██║██╔══██╗██╔════╝████╗  ██║██║ ██╔╝██╔═══██╗
-██████╔╝██║   ██║██║  ██║█████╗  ██╔██╗ ██║█████╔╝ ██║   ██║
-██╔══██╗██║   ██║██║  ██║██╔══╝  ██║╚██╗██║██╔═██╗ ██║   ██║
-██║  ██║╚██████╔╝██████╔╝███████╗██║ ╚████║██║  ██╗╚██████╔╝
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ 
+██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
+██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
+██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  
+██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  
+╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
+ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 ```
 
 ## About
 - 2nd Semester IT security & Programming major 
-- Linux evangelist
-- I SI for the the Python class 
+- Linux Enthusiast
+- SI for the the STCC Python class 
+- Stcc Student Discord moderator.
 
 ## Distros I've used 
 1. Ubuntu (First)
-2. Manjaro (Current)
+2. Manjaro-i3(Current)
 
-#Personal Github
-[TRudenko22](https://github.com/TRudenko22)
+## Personal Python Projects
+- [Random Tea selector](https://github.com/TRudenko22/CTT) (WIP)
+- [JSON Parser](https://github.com/TRudenko22/whySQL)
+- [CLI Pomodoro Timer](https://github.com/TRudenko22/Doro)
+- [Regex Password validator](https://github.com/TRudenko22/passValidate)
