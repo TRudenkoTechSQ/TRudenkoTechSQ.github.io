@@ -1,5 +1,4 @@
 # Tim Rudenko
-## Personal markdown site.
 ```
 ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
 ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
@@ -15,7 +14,7 @@
 - SI for the the STCC Python class 
 - Stcc Student Discord moderator.
 
-## Distros I've used 
+## Distros I've used natively
 1. Ubuntu (First)
 2. Manjaro-i3(Current)
 
@@ -24,3 +23,4 @@
 - [JSON Parser](https://github.com/TRudenko22/whySQL)
 - [CLI Pomodoro Timer](https://github.com/TRudenko22/Doro)
 - [Regex Password validator](https://github.com/TRudenko22/passValidate)
+
