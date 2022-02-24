@@ -10,9 +10,8 @@
 
 ## About Me 
 Hello, My name is Tim. I'm a first year CIT major. 
-I enjoy programming in python and javascript.
+I enjoy programming in Python.
 Music and manufacturing are some of the things I enjoy to do in my free time.
-
 
 ## STCC info
 - 2nd Semester IT security & Programming major 
